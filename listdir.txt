@@ -1,0 +1,2 @@
+File: [".git", ".idea", "venv"]
+Dirs:["dir_file.txt", "history.txt", "main.py", "my_account.data", "my_account.py", "my_account.txt"]
